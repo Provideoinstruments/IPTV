@@ -5,3 +5,10 @@ http://172.20.183.23/0.m3u8
 
 #EXTINF:-1 tvg-id="INFINIUM-HD2" tvg-name="Infinium HD 2" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="INFINIUM",4K Over Everything
 http://172.20.183.23/0.m3u8
+
+#EXTINF:-1 tvg-id="CAL HLS" tvg-name="CAL HLS" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAL HLS",HLS FROM CAL
+http://173.197.169.110:8080/0.m3u8
+
+
+#EXTINF:-1 tvg-id="Weather" tvg-name="Weather Channel" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Weather",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
