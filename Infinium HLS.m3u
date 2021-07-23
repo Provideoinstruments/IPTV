@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="INFINIUM-HD1" tvg-name="Infinium HD 1" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="INFINIUM",4K Over Everything
-http://172.20.183.23/0.m3u8
+http://192.168.1.168/0.m3u8
 
 
 #EXTINF:-1 tvg-id="INFINIUM-HD2" tvg-name="Infinium HD 2" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="INFINIUM",4K Over Everything
 http://172.20.183.23/0.m3u8
 
-#EXTINF:-1 tvg-id="CAL HLS" tvg-name="CAL HLS" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAL HLS",HLS FROM CAL
-http://173.197.169.110:8080/0.m3u8
+#EXTINF:-1 tvg-id="CAL HLS" tvg-name="CAL HLS" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Race",Horse Race
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
 
 #EXTINF:-1 tvg-id="Weather" tvg-name="Weather Channel" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Weather",Weather Channel
