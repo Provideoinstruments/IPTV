@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0, Pool TV Vecaster 1
+rtmp://10.0.1.221/live/0
+#EXTINF:0, Hottub TV Vecaster 2
+rtmp://10.0.1.222/live/0
